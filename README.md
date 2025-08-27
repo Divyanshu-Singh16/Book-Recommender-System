@@ -20,8 +20,8 @@ This project was hosted locally to ensure smooth and efficient access during dev
 ![listing](assets/listing.png)
 
 ### Recommend Page
-![Recommend Page](assests/Recommend Page.png)
+![Recommend Page](assests/Recommend Page)
 
 ### Recommendation Page
-![Recommendation Page](assets/recommend.png)
+![Recommendation Page](assets/Recommendation Page)
 
