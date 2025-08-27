@@ -14,16 +14,14 @@ Welcome to **OnlineLibrary**, your go-to book recommender system. This project w
 This project was hosted locally to ensure smooth and efficient access during development and testing phases.
 
 ### Login Page
-![Screenshot 2024-06-28 225852](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/ee4578bb-3f2e-4848-83c1-8456679f9aa3)
+![login.png](assets/login.png)
 
 ### All Listings Page
-![Screenshot 2024-06-28 225951](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/df28327f-188c-426c-88fa-7dc60d69a3c8)
-![Screenshot 2024-06-28 230013](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/543894e9-2311-4d91-bcd3-4bae465dd956)
+![listing](assets/listing.png)
 
 ### Recommend Page
-![Screenshot 2024-06-28 230112](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/00dd5bc2-a025-4573-8936-59d28799efb8)
+![Recommend Page](assests/Recommend Page.png)
 
 ### Recommendation Page
-![Screenshot 2024-06-28 230127](https://github.com/DasPua/Gemini_API_Projects/assets/124070372/842248df-4ac1-46ee-af01-50f2d3108a65)
-
+![Recommendation Page](assets/recommend.png)
 
